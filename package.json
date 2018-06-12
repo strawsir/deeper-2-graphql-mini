@@ -1,0 +1,23 @@
+{
+  "name": "deeper-2-graphql-mini",
+  "version": "1.0.0",
+  "description": "* Create an index.js file\r * `npm init`\r * `npm i graphql-yoga`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strawsir/deeper-2-graphql-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strawsir/deeper-2-graphql-mini/issues"
+  },
+  "homepage": "https://github.com/strawsir/deeper-2-graphql-mini#readme",
+  "dependencies": {
+    "apollo-boost": "^0.1.7"
+  }
+}
